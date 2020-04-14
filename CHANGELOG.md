@@ -1,5 +1,25 @@
 # Changelog
 
+## v1.1.0 (2020-04-14)
+
+### Changes
+
+#### Upgrade
+
+* Change references from teecke to tpbtools ([d50f3af](https://github.com/tpbtools/gp-nexus/commit/d50f3af))
+
+#### Build
+
+* Update Auto Release Log adding v1.1.0 info with JPL ([2b1352f](https://github.com/tpbtools/gp-nexus/commit/2b1352f))
+
+#### Docs
+
+* Generate v1.0.0 changelog with JPL ([362dee7](https://github.com/tpbtools/gp-nexus/commit/362dee7))
+
+### Authors
+
+* Pedro Amador
+
 ## v1.0.0 (2020-04-13)
 
 ### Changes
