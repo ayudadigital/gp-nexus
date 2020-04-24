@@ -2,7 +2,7 @@ version: '3.7'
 
 services:
   nexus:
-    image: tpbtools/gp-nexus:1.1.0
+    image: ayudadigital/gp-nexus:1.1.0
     build: nexus
     ports:
       - 8081:8081
