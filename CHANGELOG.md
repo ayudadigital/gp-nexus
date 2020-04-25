@@ -1,20 +1,58 @@
 # Changelog
 
+## v2.0.0 (2020-04-25)
+
+### Changes
+
+#### Breaking
+
+* Upgrade license ([b70832b](https://github.com/ayudadigital/gp-nexus/commit/b70832b))
+
+#### Upgrade
+
+* Use nexus 3.22.1 docker image ([49827e2](https://github.com/ayudadigital/gp-nexus/commit/49827e2))
+* Change tpbtools and TIC para Bien references with Ayuda Digital ([71a6b66](https://github.com/ayudadigital/gp-nexus/commit/71a6b66))
+
+#### Update
+
+* Use gp-nexus 2.0.0 docker image tag in compose ([6759b14](https://github.com/ayudadigital/gp-nexus/commit/6759b14))
+
+#### Build
+
+* Update Auto Release Log adding v2.0.0 info with JPL ([5cd5375](https://github.com/ayudadigital/gp-nexus/commit/5cd5375))
+* Review deleteDir place ([9cd005a](https://github.com/ayudadigital/gp-nexus/commit/9cd005a))
+* Use ayudadigital jpl v4.0.0 ([e4987ca](https://github.com/ayudadigital/gp-nexus/commit/e4987ca))
+
+#### Docs
+
+* Change tpbtools with ayudadigital references in contributing ([ce149fa](https://github.com/ayudadigital/gp-nexus/commit/ce149fa))
+* Update main readme ([70c4145](https://github.com/ayudadigital/gp-nexus/commit/70c4145))
+* Generate v1.1.0 changelog with JPL ([da76269](https://github.com/ayudadigital/gp-nexus/commit/da76269))
+
+#### Misc
+
+* Update README.md ([68a25fa](https://github.com/ayudadigital/gp-nexus/commit/68a25fa))
+
+### Authors
+
+* Pedro Amador
+* Pedro Amador Rodríguez
+
 ## v1.1.0 (2020-04-14)
 
 ### Changes
 
 #### Upgrade
 
-* Change references from teecke to tpbtools ([d50f3af](https://github.com/tpbtools/gp-nexus/commit/d50f3af))
+* Change references from teecke to tpbtools ([d50f3af](https://github.com/ayudadigital/gp-nexus/commit/d50f3af))
 
 #### Build
 
-* Update Auto Release Log adding v1.1.0 info with JPL ([2b1352f](https://github.com/tpbtools/gp-nexus/commit/2b1352f))
+* Update Auto Release Log adding v1.1.0 info with JPL ([2b1352f](https://github.com/ayudadigital/gp-nexus/commit/2b1352f))
 
 #### Docs
 
-* Generate v1.0.0 changelog with JPL ([362dee7](https://github.com/tpbtools/gp-nexus/commit/362dee7))
+* Generate v1.0.0 changelog with JPL ([362dee7](https://github.com/ayudadigital/gp-nexus/commit/362dee7))
 
 ### Authors
 
@@ -26,18 +64,18 @@
 
 #### Breaking
 
-* Upgrade license ([c48b7c6](https://github.com/tpbtools/gp-nexus/commit/c48b7c6))
+* Upgrade license ([c48b7c6](https://github.com/ayudadigital/gp-nexus/commit/c48b7c6))
 
 #### Build
 
-* Update Auto Release Log adding v1.0.0 info with JPL ([5dcb242](https://github.com/tpbtools/gp-nexus/commit/5dcb242))
-* Fix docker image build assets path ([9b1cbe6](https://github.com/tpbtools/gp-nexus/commit/9b1cbe6))
+* Update Auto Release Log adding v1.0.0 info with JPL ([5dcb242](https://github.com/ayudadigital/gp-nexus/commit/5dcb242))
+* Fix docker image build assets path ([9b1cbe6](https://github.com/ayudadigital/gp-nexus/commit/9b1cbe6))
 
 #### Docs
 
-* Change references from kairops to TIC para Bien ([33ea1cb](https://github.com/tpbtools/gp-nexus/commit/33ea1cb))
-* Add code of conduct and contributing docs ([0705f18](https://github.com/tpbtools/gp-nexus/commit/0705f18))
-* Generate v0.3.2 changelog with JPL ([e696ffb](https://github.com/tpbtools/gp-nexus/commit/e696ffb))
+* Change references from kairops to TIC para Bien ([33ea1cb](https://github.com/ayudadigital/gp-nexus/commit/33ea1cb))
+* Add code of conduct and contributing docs ([0705f18](https://github.com/ayudadigital/gp-nexus/commit/0705f18))
+* Generate v0.3.2 changelog with JPL ([e696ffb](https://github.com/ayudadigital/gp-nexus/commit/e696ffb))
 
 ### Authors
 
@@ -49,15 +87,15 @@
 
 #### Update
 
-* Review pipeline ([ee74f2d](https://github.com/tpbtools/gp-nexus/commit/ee74f2d))
+* Review pipeline ([ee74f2d](https://github.com/ayudadigital/gp-nexus/commit/ee74f2d))
 
 #### Build
 
-* Update Auto Release Log adding v0.3.2 info with JPL ([f2c1004](https://github.com/tpbtools/gp-nexus/commit/f2c1004))
+* Update Auto Release Log adding v0.3.2 info with JPL ([f2c1004](https://github.com/ayudadigital/gp-nexus/commit/f2c1004))
 
 #### Docs
 
-* Generate v0.3.1 changelog with JPL ([948da03](https://github.com/tpbtools/gp-nexus/commit/948da03))
+* Generate v0.3.1 changelog with JPL ([948da03](https://github.com/ayudadigital/gp-nexus/commit/948da03))
 
 ### Authors
 
@@ -69,15 +107,15 @@
 
 #### Update
 
-* Review devcontrol scripts ([f35ba5f](https://github.com/tpbtools/gp-nexus/commit/f35ba5f))
+* Review devcontrol scripts ([f35ba5f](https://github.com/ayudadigital/gp-nexus/commit/f35ba5f))
 
 #### Build
 
-* Update Auto Release Log adding v0.3.1 info with JPL ([0ee9fb8](https://github.com/tpbtools/gp-nexus/commit/0ee9fb8))
+* Update Auto Release Log adding v0.3.1 info with JPL ([0ee9fb8](https://github.com/ayudadigital/gp-nexus/commit/0ee9fb8))
 
 #### Docs
 
-* Generate v0.3.0 changelog with JPL ([d8a7cef](https://github.com/tpbtools/gp-nexus/commit/d8a7cef))
+* Generate v0.3.0 changelog with JPL ([d8a7cef](https://github.com/ayudadigital/gp-nexus/commit/d8a7cef))
 
 ### Authors
 
@@ -89,15 +127,15 @@
 
 #### Upgrade
 
-* Service refactor with assets install ([36dad6b](https://github.com/tpbtools/gp-nexus/commit/36dad6b))
+* Service refactor with assets install ([36dad6b](https://github.com/ayudadigital/gp-nexus/commit/36dad6b))
 
 #### Build
 
-* Update Auto Release Log adding v0.3.0 info with JPL ([0b560d0](https://github.com/tpbtools/gp-nexus/commit/0b560d0))
+* Update Auto Release Log adding v0.3.0 info with JPL ([0b560d0](https://github.com/ayudadigital/gp-nexus/commit/0b560d0))
 
 #### Docs
 
-* Generate v0.2.0 changelog with JPL ([717a303](https://github.com/tpbtools/gp-nexus/commit/717a303))
+* Generate v0.2.0 changelog with JPL ([717a303](https://github.com/ayudadigital/gp-nexus/commit/717a303))
 
 ### Authors
 
@@ -109,32 +147,32 @@
 
 #### New
 
-* Add assets-install devcontrol action ([b9347b7](https://github.com/tpbtools/gp-nexus/commit/b9347b7))
-* Add .gitignore file ([c44ecbd](https://github.com/tpbtools/gp-nexus/commit/c44ecbd))
+* Add assets-install devcontrol action ([b9347b7](https://github.com/ayudadigital/gp-nexus/commit/b9347b7))
+* Add .gitignore file ([c44ecbd](https://github.com/ayudadigital/gp-nexus/commit/c44ecbd))
 
 #### Upgrade
 
-* Update Nexus from version 2.14.14-01 to 3 ([4080012](https://github.com/tpbtools/gp-nexus/commit/4080012))
+* Update Nexus from version 2.14.14-01 to 3 ([4080012](https://github.com/ayudadigital/gp-nexus/commit/4080012))
 
 #### Update
 
-* Remove named volume usage ([8eb50d0](https://github.com/tpbtools/gp-nexus/commit/8eb50d0))
-* Review of backup script ([7877682](https://github.com/tpbtools/gp-nexus/commit/7877682))
-* Add ulimit to docker-compose ([e5199f0](https://github.com/tpbtools/gp-nexus/commit/e5199f0))
-* Refactor bash linter devcontrol action ([972a8ba](https://github.com/tpbtools/gp-nexus/commit/972a8ba))
+* Remove named volume usage ([8eb50d0](https://github.com/ayudadigital/gp-nexus/commit/8eb50d0))
+* Review of backup script ([7877682](https://github.com/ayudadigital/gp-nexus/commit/7877682))
+* Add ulimit to docker-compose ([e5199f0](https://github.com/ayudadigital/gp-nexus/commit/e5199f0))
+* Refactor bash linter devcontrol action ([972a8ba](https://github.com/ayudadigital/gp-nexus/commit/972a8ba))
 
 #### Fix
 
-* Typo in docker-compose ([aa3a00b](https://github.com/tpbtools/gp-nexus/commit/aa3a00b))
+* Typo in docker-compose ([aa3a00b](https://github.com/ayudadigital/gp-nexus/commit/aa3a00b))
 
 #### Build
 
-* Update Auto Release Log adding v0.2.0 info with JPL ([9e55add](https://github.com/tpbtools/gp-nexus/commit/9e55add))
+* Update Auto Release Log adding v0.2.0 info with JPL ([9e55add](https://github.com/ayudadigital/gp-nexus/commit/9e55add))
 
 #### Docs
 
-* Update main readme file ([87c270e](https://github.com/tpbtools/gp-nexus/commit/87c270e))
-* Generate v0.1.1 changelog with JPL ([a0d5816](https://github.com/tpbtools/gp-nexus/commit/a0d5816))
+* Update main readme file ([87c270e](https://github.com/ayudadigital/gp-nexus/commit/87c270e))
+* Generate v0.1.1 changelog with JPL ([a0d5816](https://github.com/ayudadigital/gp-nexus/commit/a0d5816))
 
 ### Authors
 
@@ -146,17 +184,17 @@
 
 #### Update
 
-* Use directory instead named volume for nexus service in docker-compose sample ([59ef704](https://github.com/tpbtools/gp-nexus/commit/59ef704))
+* Use directory instead named volume for nexus service in docker-compose sample ([59ef704](https://github.com/ayudadigital/gp-nexus/commit/59ef704))
 
 #### Build
 
-* Update Auto Release Log adding v0.1.1 info with JPL ([3cd6baf](https://github.com/tpbtools/gp-nexus/commit/3cd6baf))
-* Use environment variable for mail notificacions targets ([145d3b9](https://github.com/tpbtools/gp-nexus/commit/145d3b9))
+* Update Auto Release Log adding v0.1.1 info with JPL ([3cd6baf](https://github.com/ayudadigital/gp-nexus/commit/3cd6baf))
+* Use environment variable for mail notificacions targets ([145d3b9](https://github.com/ayudadigital/gp-nexus/commit/145d3b9))
 
 #### Docs
 
-* Update main readme file ([01b80fd](https://github.com/tpbtools/gp-nexus/commit/01b80fd))
-* Generate v0.1.0 changelog with JPL ([74a23ed](https://github.com/tpbtools/gp-nexus/commit/74a23ed))
+* Update main readme file ([01b80fd](https://github.com/ayudadigital/gp-nexus/commit/01b80fd))
+* Generate v0.1.0 changelog with JPL ([74a23ed](https://github.com/ayudadigital/gp-nexus/commit/74a23ed))
 
 ### Authors
 
@@ -168,11 +206,11 @@
 
 #### New
 
-* First functional release, adding all initial stuff ([41a9107](https://github.com/tpbtools/gp-nexus/commit/41a9107))
+* First functional release, adding all initial stuff ([41a9107](https://github.com/ayudadigital/gp-nexus/commit/41a9107))
 
 #### Build
 
-* Update Auto Release Log adding v0.1.0 info with JPL ([60ba17b](https://github.com/tpbtools/gp-nexus/commit/60ba17b))
+* Update Auto Release Log adding v0.1.0 info with JPL ([60ba17b](https://github.com/ayudadigital/gp-nexus/commit/60ba17b))
 
 ### Authors
 
@@ -184,7 +222,7 @@
 
 #### Misc
 
-* Initial commit ([c20a135](https://github.com/tpbtools/gp-nexus/commit/c20a135))
+* Initial commit ([c20a135](https://github.com/ayudadigital/gp-nexus/commit/c20a135))
 
 ### Authors
 
