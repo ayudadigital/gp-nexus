@@ -1,5 +1,22 @@
 # Changelog
 
+## v2.0.1 (2021-03-28)
+
+### Changes
+
+#### Build
+
+* Update Auto Release Log adding v2.0.1 info with JPL ([19a2c36](https://github.com/ayudadigital/gp-nexus/commit/19a2c36))
+* Use jpl v6.2.0 ([2bff33f](https://github.com/ayudadigital/gp-nexus/commit/2bff33f))
+
+#### Docs
+
+* Generate v2.0.0 changelog with JPL ([5c10e17](https://github.com/ayudadigital/gp-nexus/commit/5c10e17))
+
+### Authors
+
+* Pedro Amador
+
 ## v2.0.0 (2020-04-25)
 
 ### Changes
